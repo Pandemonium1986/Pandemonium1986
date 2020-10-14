@@ -66,7 +66,23 @@
 <p align="left">
 	<h3 align="left">Connect with me:</h3>
 	<a href="https://linkedin.com/in/maikimike" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maikimike" height="30" width="40" />
+		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-pandemonium" height="30" width="40" />
+	</a>
+	<a href="https://galaxy.ansible.com/pandemonium1986" target="blank">
+		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ansible.svg" alt="galaxy-pandemonium" height="30" width="40" />
+	</a>
+	</a>
+	<a href="https://app.vagrantup.com/pandemonium" target="blank">
+		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vagrant.svg" alt="vagrant-pandemonium" height="30" width="40" />
+	</a>
+	<a href="https://hub.docker.com/u/pandemonium1986" target="blank">
+		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="docker-pandemonium" height="30" width="40" />
+	</a>
+	<a href="https://gitlab.com/Pandemonium1986" target="blank">
+		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="gitlab-pandemonium" height="30" width="40" />
+	</a>
+	<a href="https://github.com/Pandemonium1986" target="blank">
+		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github-pandemonium" height="30" width="40" />
 	</a>
 </p>
 
