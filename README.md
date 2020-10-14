@@ -17,13 +17,6 @@
 
 -   💬 Ask me about **CI/CD, DevOps Culture, Ansible, Docker, Jenkins**
 
-<p align="left">
-	<h3 align="left">Connect with me:</h3>
-	<a href="https://linkedin.com/in/maikimike" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maikimike" height="30" width="40" />
-	</a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	<a href="https://azure.microsoft.com/en-in/" target="_blank">
@@ -52,6 +45,13 @@
 	</a>
 	<a href="" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
+	</a>
+</p>
+
+<p align="left">
+	<h3 align="left">Connect with me:</h3>
+	<a href="https://linkedin.com/in/maikimike" target="blank">
+		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maikimike" height="30" width="40" />
 	</a>
 </p>
 
