@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandemonium1986" alt="pandemonium1986" /></a>
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandemonium1986&margin-w=5&theme=nord" alt="pandemonium1986" /></a>
 </p>
 
 -   🔭 I’m currently working on [ansible-collection-k8s-toolbox](https://github.com/Pandemonium1986/ansible-collection-k8s-toolbox)
