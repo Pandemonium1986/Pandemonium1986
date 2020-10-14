@@ -13,13 +13,9 @@
 
 -   🌱 I’m currently learning **Github Actions**
 
--   👨‍💻 All of my projects are available at <https://github.com/Pandemonium1986>
+-   👨‍💻 All of my projects are available at [Github Pandemonium1986](https://github.com/Pandemonium1986)
 
 -   💬 Ask me about **Ansible**
-
--   📫 How to reach me **nbvngrs**
-
--   ⚡ Fun fact **nghdnxh**
 
 <p align="left">
 	<h3 align="left">Connect with me:</h3>
