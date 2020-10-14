@@ -6,8 +6,7 @@
 </p>
 
 <p align="left">
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandemonium1986&margin-w=10&theme=nord
-" alt="pandemonium1986" /></a>
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandemonium1986" alt="pandemonium1986" /></a>
 </p>
 
 -   🔭 I’m currently working on [ansible-collection-k8s-toolbox](https://github.com/Pandemonium1986/ansible-collection-k8s-toolbox)
@@ -15,6 +14,12 @@
 -   🌱 I’m currently learning **Github Actions**
 
 -   👨‍💻 All of my projects are available at <https://github.com/Pandemonium1986>
+
+-   💬 Ask me about **Ansible**
+
+-   📫 How to reach me **nbvngrs**
+
+-   ⚡ Fun fact **nghdnxh**
 
 <p align="left">
 	<h3 align="left">Connect with me:</h3>
@@ -54,10 +59,6 @@
 	</a>
 </p>
 
-<p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandemonium1986&layout=compact" alt="pandemonium1986" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandemonium1986&layout=compact" alt="pandemonium1986" /></p>
 
-<p>&nbsp;
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandemonium1986&show_icons=true" alt="pandemonium1986" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandemonium1986&show_icons=true" alt="pandemonium1986" /></p>
