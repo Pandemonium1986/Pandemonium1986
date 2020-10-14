@@ -55,6 +55,6 @@
 	</a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pandemonium1986&show_icons=true" alt="pandemonium1986" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pandemonium1986&show_icons=true&theme=react" alt="pandemonium1986" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandemonium1986&layout=compact" alt="pandemonium1986" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandemonium1986&layout=compact&theme=react" alt="pandemonium1986" /></p>
