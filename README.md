@@ -15,7 +15,7 @@
 
 -   👨‍💻 All of my projects are available at [Github Pandemonium1986](https://github.com/Pandemonium1986)
 
--   💬 Ask me about **Ansible**
+-   💬 Ask me about **CI/CD, DevOps Culture, Ansible, Docker, Jenkins**
 
 <p align="left">
 	<h3 align="left">Connect with me:</h3>
