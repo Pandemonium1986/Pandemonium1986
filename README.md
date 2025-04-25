@@ -55,10 +55,10 @@
   <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
  </a>
  <a href="https://www.sonarqube.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/sonarqube.svg" alt="sonarqube" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/actions/starter-workflows/refs/heads/main/icons/sonarqube.svg" alt="sonarqube" width="40" height="40"/>
  </a>
  <a href="https://fr.sonatype.com/nexus/repository-oss" target="_blank">
-  <img src="https://help.sonatype.com/docs/files/331022/34537964/3/1564671303641/NexusRepo_Icon.png" alt="nexus" width="40" height="40"/>
+  <img src="https://help.sonatype.com/en/image/uuid-cb291490-1cfa-b82b-7999-648993d265ac.png" alt="nexus" width="40" height="40"/>
  </a>
  <a href="https://jfrog.com/artifactory/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" alt="artifactory" width="40" height="40"/>
